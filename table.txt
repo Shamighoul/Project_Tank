@@ -1,0 +1,9 @@
+{"name": "lexa", "count": 110, "balls": 58}
+{"name": "shamighoul", "count": 90, "balls": 29}
+{"name": "bogdan", "count": 85, "balls": 72}
+{"name": "bogdamn", "count": 66, "balls": 62}
+{"name": "sisadm", "count": 30, "balls": 37}
+{"name": "Ariel", "count": 22, "balls": 23}
+{"name": "insaf", "count": 21, "balls": 32}
+{"name": "lexa", "count": -3, "balls": 9}
+{"name": "John", "count": -7.5, "balls": 5}
